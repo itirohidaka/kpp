@@ -1,5 +1,5 @@
-# Kubernetes no Modo Difícil (KMD)
-Este tutorial tem o objetivo de implementar um Kubernetes no Modo Difícil (KMD) . Este guia NÃO foi criado para pessoas que procuram um comando totalmente automatizado para implementar um cluster Kubernetes (K8s). O KMD foi criado para o aprendizado, ou seja, é a rota mais longa de implementação do Kubernetes, com o intuito de você aprender cada tarefa requerida para o bootstrap do cluster.
+# Kubernetes Passo a Passo (KPP)
+Este tutorial tem o objetivo de implementar um cluster Kubernetes Passo a Passo. Este guia NÃO foi criado para pessoas que procuram um comando totalmente automatizado para implementar um cluster Kubernetes (K8s). O KMD foi criado para o aprendizado, ou seja, é a rota mais longa de implementação do Kubernetes, com o intuito de você aprender cada tarefa requerida para o bootstrap do cluster.
 
 > Os resultados deste tutorial NÃO devem ser vistos como production ready!!!
 
